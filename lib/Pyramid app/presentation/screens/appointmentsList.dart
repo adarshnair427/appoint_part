@@ -1,11 +1,9 @@
-import 'package:appoint_part/Data/appointmentInfo.dart';
-import 'package:appoint_part/bloc/Appointment1/appointment_bloc.dart';
-import 'package:appoint_part/presentation/widgets/appointTile.dart';
+import 'package:appoint_part/Pyramid%20app/Data/appointmentInfo.dart';
+import 'package:appoint_part/Pyramid%20app/bloc/Appointment1/appointment_bloc.dart';
+import 'package:appoint_part/Pyramid%20app/presentation/widgets/appointTile.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:table_calendar/table_calendar.dart';
-import 'package:appoint_part/Data/patientInfo.dart';
-import 'package:appoint_part/Data/appointmentInfo.dart';
 import 'package:intl/intl.dart';
 
 class AppointmentsList extends StatefulWidget {

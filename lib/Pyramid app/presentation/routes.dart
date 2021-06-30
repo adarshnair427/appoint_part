@@ -1,10 +1,12 @@
-import 'package:appoint_part/bloc/Appointment1/appointment_bloc.dart';
+
+import 'package:appoint_part/Pyramid%20app/bloc/Appointment1/appointment_bloc.dart';
+import 'package:appoint_part/Pyramid%20app/presentation/screens/addAppointment.dart';
+import 'package:appoint_part/Pyramid%20app/presentation/screens/appointmentsList.dart';
+import 'package:appoint_part/Pyramid%20app/presentation/screens/calendar.dart';
+import 'package:appoint_part/Pyramid%20app/presentation/screens/personList.dart';
 import 'package:flutter/material.dart';
 
-import 'package:appoint_part/presentation/screens/addAppointment.dart';
-import 'package:appoint_part/presentation/screens/appointmentsList.dart';
-import 'package:appoint_part/presentation/screens/calendar.dart';
-import 'package:appoint_part/presentation/screens/personList.dart';
+
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter_bloc/flutter_bloc.dart';
 

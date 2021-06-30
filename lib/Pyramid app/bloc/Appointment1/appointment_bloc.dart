@@ -1,8 +1,9 @@
 import 'dart:async';
 import 'dart:collection';
 
-import 'package:appoint_part/Data/appointmentInfo.dart';
+
 // ignore: import_of_legacy_library_into_null_safe
+import 'package:appoint_part/Pyramid%20app/Data/appointmentInfo.dart';
 import 'package:bloc/bloc.dart';
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:equatable/equatable.dart';

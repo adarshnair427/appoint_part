@@ -1,7 +1,8 @@
 import 'dart:collection';
 
-import 'package:appoint_part/Data/patientList.dart';
+
 // ignore: import_of_legacy_library_into_null_safe
+import 'package:appoint_part/Pyramid%20app/Data/patientList.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:table_calendar/table_calendar.dart';
